@@ -1,0 +1,29 @@
+#span img{
+    height: 300px;
+}
+#home1{
+    height: 950px;
+}
+.menu {
+    list-style: none;
+    font-family: fantasy;
+    position: fixed;
+    top: 0px;
+    z-index: 10;
+    cursor: pointer;
+    background: black;
+    width: 100%;
+    color: white;
+    font-size: 25px;
+}
+
+.links {
+    display: inline;
+    padding-left: 33px;
+    padding-right: 25px;
+}
+
+.links:hover {
+    background-color: darksalmon;
+    color: white;
+}
